@@ -1,1 +1,1 @@
-print('random text')
+print('задание выполнено')
